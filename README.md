@@ -1,0 +1,1 @@
+# Panel-sincronizador-de-color
