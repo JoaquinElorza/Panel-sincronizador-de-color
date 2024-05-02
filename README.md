@@ -60,4 +60,4 @@ Este boton hace una llamada a algunos métodos, para comprobar que el usuario no
 Para saber cómo instalar este componente y nuestros botones animados entra al siguiente enlace -> https://youtu.be/I2DW3I4hKTQ
 
 # Funcionamiento
-Para saber cómo usar nuestros componentes una vez instalados entra al siguente video -> 
+Para saber cómo usar nuestros componentes una vez instalados entra al siguente video -> https://www.youtube.com/watch?v=r2ObpNvyoOM
